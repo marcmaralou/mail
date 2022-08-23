@@ -1,0 +1,4 @@
+- Created a functional front-end for an email client that operates as its own self-contained email service
+- Applied Python, SQLite, Javascript, API, Django, and Bootstrap knowledge to implement all features
+- Allows users to create accounts, send, receive, and archive emails, and mark emails as read and unread
+- Primary aspects and features of the email client are done through various types of API calls
